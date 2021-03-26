@@ -1,0 +1,125 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>1_left.png</filename>
+    <path>machigai-PascalVOC-export/Annotations/1_left.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>777</width>
+        <height>756</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Item</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>102.1109183010397</xmin>
+        <ymin>149.38225121359224</ymin>
+        <xmax>170.50807833175804</xmax>
+        <ymax>189.785588592233</ymax>
+    </bndbox>
+</object><object>
+    <name>Item</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>360.4032889295841</xmin>
+        <ymin>106.45585558252428</ymin>
+        <xmax>388.58032549621925</xmax>
+        <ymax>138.53883495145632</ymax>
+    </bndbox>
+</object><object>
+    <name>Item</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>655.0716342745746</xmin>
+        <ymin>101.83407160194176</ymin>
+        <xmax>707.6676216918714</xmax>
+        <ymax>152.71383495145633</ymax>
+    </bndbox>
+</object><object>
+    <name>Item</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>374.8045028946125</xmin>
+        <ymin>244.3868628640777</ymin>
+        <xmax>487.0823340028355</xmax>
+        <ymax>291.0347694174758</ymax>
+    </bndbox>
+</object><object>
+    <name>Item</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>300.15342922967864</xmin>
+        <ymin>418.8735436893204</ymin>
+        <xmax>375.83725927457465</xmax>
+        <ymax>502.237682038835</ymax>
+    </bndbox>
+</object><object>
+    <name>Item</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>298.43790613185257</xmin>
+        <ymin>367.20819174757287</ymin>
+        <xmax>352.30188888232516</xmax>
+        <ymax>412.0326152912622</ymax>
+    </bndbox>
+</object><object>
+    <name>Item</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>582.2680470226843</xmin>
+        <ymin>417.77257281553403</ymin>
+        <xmax>655.008521384688</xmax>
+        <ymax>490.22448422330103</ymax>
+    </bndbox>
+</object><object>
+    <name>Item</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>565.7955827622874</xmin>
+        <ymin>563.9551274271845</ymin>
+        <xmax>638.5762198724008</xmax>
+        <ymax>620.8328883495146</ymax>
+    </bndbox>
+</object><object>
+    <name>Item</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>316.86686997873346</xmin>
+        <ymin>656.8782160194176</ymin>
+        <xmax>381.41988126181474</xmax>
+        <ymax>712.7983616504855</ymax>
+    </bndbox>
+</object><object>
+    <name>Item</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>113.67778975661626</xmin>
+        <ymin>425.5137742718447</ymin>
+        <xmax>216.4772123109641</xmax>
+        <ymax>531.7976031553399</ymax>
+    </bndbox>
+</object>
+</annotation>
