@@ -1,7 +1,7 @@
 # Saizeriya_detection
-サイゼリヤの間違い探しを片面だけで行おうというコードになります．詳細はこちらの記事を参照してください．  
+サイゼリヤの間違い探しを片面だけで行うコードになります．詳細はこちらの記事を参照してください．  
 
-[Coming soon]()
+[サイゼリヤの間違い探しを片面だけで解く](https://qiita.com/grouse324/items/9f49dafc97b78869476f)
 
 中身はFaster-RCNNを使ったObject detectionです．  
 
