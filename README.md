@@ -25,3 +25,10 @@
 python main_detection.py --num_epochs 20 --batch_size 1 --lr 0.005 --base_path ./
 ```
 
+## 出力の例
+上位10個のBounding Boxがスコアとともに表示されます．  
+  
+<img src=https://user-images.githubusercontent.com/32294580/112741729-18a82700-8fc3-11eb-8c89-bff5f08b6ac8.png width=400>
+
+## 画像の取得元
+[エンターテイメント - サイゼリヤ](https://www.saizeriya.co.jp/entertainment/)
